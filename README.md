@@ -9,7 +9,7 @@ I am frontend developer with experience in creating webpages & webapps. Enjoy ne
 *   🌍  I'm based in Latvia
 *   🖥️  See my portfolio at [yettocome](http://ji.com)
 *   ✉️  You can contact me at [jekabsincenbergs@gmail.com](mailto:jekabsincenbergs@gmail.com)
-*   🚀  I'm currently working on [draudzealuksne](http://draudzealuksne.lv)
+*   🚀  I'm currently working on [my personal projects](https://bright-element.com/)
 *   🧠  I'm learning React### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
